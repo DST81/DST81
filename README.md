@@ -13,6 +13,10 @@ CDS212: Versionsverwaltung, Container, CI/CD, Cloud und Monitoring.
 
 `Python` · `Git` · `Linux` · `Docker`
 
+# Projekte
+Hier auf GitHub dokumentiere ich meine Lernfortschritte und Projekt aus meinem Studium und kleinen Projekt für meine Arbeit als leitende Bibliothekarin. 
+Die Repositories zeigen, wie ich die verschiedenen Technologien praktisch einsetze und miteinander verbinde.
+
 ## Kontakt
 
 - GitHub: [@DST81](https://github.com/DST81)
